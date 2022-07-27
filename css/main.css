@@ -1,0 +1,61 @@
+/* font import  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* customized classes */
+.header-bg-color {
+    background-color: #FFF9F4;
+}
+
+.card-bg-color {
+    background-color: #F1F1F1;
+}
+
+
+.logo-width {
+    width: 250px;
+}
+
+.large-font {
+    font-size: 80px;
+}
+
+.bebas {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.orange-color {
+    color: #FA804C;
+}
+
+.purple-color {
+    color: #363958;
+}
+
+.btn-color {
+    color: white;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    filter: invert(100%);
+}
+
+.my-10 {
+    margin-top: 3.5rem;
+    margin-bottom: 3.5rem;
+}
+
+.img-benefit {
+    width: 80px;
+    height: 90px;
+}
+
+.h-footer {
+    height: 150px;
+    background-color: #363958;
+}

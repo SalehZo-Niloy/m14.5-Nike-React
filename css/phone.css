@@ -1,0 +1,9 @@
+@media only screen and (max-width: 576px) {
+    .logo-width {
+        width: 190px;
+    }
+
+    .large-font {
+        font-size: 50px;
+    }
+}
